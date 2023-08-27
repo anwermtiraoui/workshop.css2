@@ -1,0 +1,19 @@
+p{
+    background-color: aquamarine;
+  
+    border: 5px red solid;
+}
+span{
+    background-color: pink
+    color orange  
+}
+#box{
+    border: 5px orange dotted;
+
+}
+.blue-bg{
+    background-color: blue;
+}
+#creator-name span{
+    background-color: orange;
+}
